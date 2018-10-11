@@ -1,3 +1,15 @@
+# Anotaciones
+- Se necesita la librería lombok instalada en el IDE para la correcta ejecucción del proyecto.
+- El proyecto utiliza maven, y primeramente deberemos hacer un install para poder ejecutar la aplicación.
+- La clase que arranca el proyecto es SocialApplication.java
+- Hay autentificación básica en todos los métodos menos /register por lo que las solicitudes/aceptación/denegación de peticiones de amistad serán sobre el usuario logado.
+
+#TO-DO
+- Faltan por realizar numerosos test, hay algunos de ejemplo.
+- Faltan por realizar numerosas validaciones que no se contemplan en los requisitos (Se han dejado algunas básicas y lógicas).
+
+
+
 # Friends
 *(If you first thought on the TV comedy, you are getting old)*
 
